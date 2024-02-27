@@ -1,0 +1,5 @@
+body {
+    background-image: url('/images/pexels-francesco-ungaro-998641.jpg');
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+}
